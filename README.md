@@ -24,6 +24,6 @@ This project aims to predict stock prices using historical data and a Long Short
 
 ## How to Run
 1. Install the required libraries:
-2. 2. Run the Jupyter Notebook:
-   3. pip install -r requirements.txt
+2.  Run the Jupyter Notebook.
+3. pip install -r requirements.txt
 
