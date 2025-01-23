@@ -25,4 +25,7 @@ This project aims to predict stock prices using historical data and a Long Short
   ![Prediction Plot](plots/prediction_plot.png)
 
 ## How to Run
-1. Install the required libraries: ![requirment.txt]
+1. Install the required libraries:
+2. 2. Run the Jupyter Notebook:
+   3. pip install -r requirements.txt
+
