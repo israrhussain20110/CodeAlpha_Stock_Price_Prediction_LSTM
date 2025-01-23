@@ -25,4 +25,4 @@ This project aims to predict stock prices using historical data and a Long Short
   ![Prediction Plot](plots/prediction_plot.png)
 
 ## How to Run
-1. Install the required libraries:
+1. Install the required libraries: ![requirment.txt]
