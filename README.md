@@ -18,7 +18,7 @@ This project aims to predict stock prices using historical data and a Long Short
 
 ## Visuals
 - Correlation Matrix  
-  ![Correlation Matrix](plots/correlation_matrix.png)
+  ![Correlation Matrix](plots/Correlation_Matrix.png)
 - Loss Curves  
   ![Loss Curve](plots/loss_curve.png)
 - Prediction Plot  
