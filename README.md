@@ -1,5 +1,3 @@
-# CodeAlpha_Stock_Price_Prediction_LSTM
-
 # Stock Price Prediction Using LSTM
 
 This project aims to predict stock prices using historical data and a Long Short-Term Memory (LSTM) model.
